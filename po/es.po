@@ -1,0 +1,164 @@
+# Translators:
+# frodrigo <fred.rodrigo@gmail.com>, 2018
+# Franco, 2018
+# Noémie Lehuby, 2019
+#
+msgid ""
+msgstr ""
+"Last-Translator: Franco, 2018\n"
+"Language-Team: Spanish (https://www.transifex.com/openstreetmap-france/"
+"teams/17462/es/)\n"
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Uncompromising validation of transit data"
+msgstr "Validación inflexible de los datos de tránsito"
+
+msgid "Missing transportation mode, add a tag route = bus/coach/tram/etc"
+msgstr ""
+"Falta el modo de transporte, añada una etiqueta route = bus/coach/tram/etc"
+
+msgid "Missing transportation mode, change tag route to route_master"
+msgstr ""
+"Falta el modo de transporte, reemplazar la etiqueta route por route_master"
+
+msgid ""
+"Missing public_transport:version tag on a public_transport route relation"
+msgstr ""
+"Falta etiqueta public_transport:version en una relación de ruta "
+"public_transport"
+
+msgid "Missing network tag on a public_transport relation"
+msgstr "Falta etiqueta network en una relación public_transport"
+
+msgid "Missing operator tag on a public_transport relation"
+msgstr "Falta etiqueta operator en una relación public_transport"
+
+msgid "Missing ref tag for line number on a public_transport relation"
+msgstr ""
+"Falta etiqueta ref con el número de línea, en una relación public_transport"
+
+msgid "Missing from/to tag on a public_transport route relation"
+msgstr "Falta etiqueta from/to en una relación de ruta public_transport"
+
+msgid "The stops may not be in the right order"
+msgstr "Las paradas pueden no estar en el orden correcto"
+
+msgid "Check the operator tag"
+msgstr "Comprobar la etiqueta operator"
+
+msgid "Check the network tag"
+msgstr "Comprobar la etiqueta network"
+
+msgid "Is it a bus stop or a bus station?"
+msgstr "¿Es una parada de autobús o una estación de autobús?"
+
+msgid ""
+"Specify if it is a stop (platform) or a location on the road (stop_position)"
+msgstr ""
+"Especificar si es una parada (platform) o una ubicación en la carretera "
+"(stop_position)"
+
+msgid ""
+"The legacy tag is missing, add the tag highway=bus_stop / railway=tram_stop"
+msgstr ""
+"Falta la etiqueta clásica, añada la etiqueta highway=bus_stop / "
+"railway=tram_stop"
+
+msgid "Is this a bus stop? add the tag highway=bus_stop"
+msgstr "¿Es una parada de autobús? añada la etiqueta highway=bus_stop"
+
+msgid "Check if the note can be deleted"
+msgstr "Comprobar si la nota puede borrarse"
+
+msgid "The network should be on the transport lines and not on the stops"
+msgstr "La red debe estar en las líneas de transporte y no en las paradas"
+
+msgid "The operator should be on the transport lines and not on the stops"
+msgstr "El operador debe estar en las líneas de transporte y no en las paradas"
+
+msgid ""
+"The line variant does not belong to any line, add it to the route_master "
+"relation"
+msgstr ""
+"El recorrido no pertenece a ninguna línea, añadirlo a la relación "
+"route_master"
+
+msgid "The stop is not served by any line, add it to a route relation"
+msgstr ""
+"La parada no está relacionada a ninguna línea, añadirla a una relación de "
+"ruta"
+
+msgid "Missing public_transport tag on a public transport stop"
+msgstr "Falta etiqueta public_transport en una parada de transporte público"
+
+msgid ""
+"Specify if it is a stop (platform) or a location on the rails (stop_position)"
+msgstr ""
+"Especificar si es una parada (platform) o una ubicación sobre los rieles "
+"(stop_position)"
+
+msgid "Missing legacy tag on a public transport stop"
+msgstr "Falta etiqueta heredada en una parada de transporte público"
+
+msgid ""
+"The network tag should be the same for the route and the route_master : {0} "
+"vs {1}"
+msgstr ""
+
+msgid ""
+"The operator tag should be the same for the route and the route_master : {0} "
+"vs {1}"
+msgstr ""
+
+msgid ""
+"The ref tag should be the same for the route and the route_master : {0} vs "
+"{1}"
+msgstr ""
+
+msgid ""
+"The colour tag should be the same for the route and the route_master : {0} "
+"vs {1}"
+msgstr ""
+
+msgid ""
+"The public transport mode should be the same for the route and the "
+"route_master : {0} vs {1}"
+msgstr ""
+
+msgid "Check the colour tag"
+msgstr ""
+
+msgid "The colour code should start with '#' followed by 3 or 6 digits"
+msgstr ""
+
+msgid "The color of the public transport line should be in a colour tag"
+msgstr ""
+
+msgid "A bus stop is supposed to be a node"
+msgstr ""
+
+msgid ""
+"A bus station is usually a large area where many buses stops, check if you "
+"can draw this area"
+msgstr ""
+
+msgid "The interval is invalid (try a number of minutes)"
+msgstr ""
+
+msgid "The duration is invalid (try a number of minutes)"
+msgstr ""
+
+msgid "Missing interval tag to specify the main interval"
+msgstr ""
+
+msgid "Missing opening_hours tag"
+msgstr ""
+
+msgid "Missing name on a public transport stop"
+msgstr ""
+
+#~ msgid "Stop without name"
+#~ msgstr "Parada sin nombre"
